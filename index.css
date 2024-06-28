@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>HOME</title>
+<style >
+*{margin:0;padding:0:}
+header{height:60px;background:rgb(107, 65, 65);padding:0 50px;}
+
+.logo{width:30%;float:left;color:rgb(113, 219, 175);font-weight:bold;text-transform:uppercase;line-height:60px;font-size:35px;font-family:sans-serif;}
+nav{width:68%;float:right;}
+nav ul{list-style:none;float:right;}
+nav ul li{display:inline-block;}
+nav ul li a{text-decoration: none;color:#fff;font-family:sans-serif;font-weight:bold;margin:0 10px;line-height:60px;text-transform:uppercase;}
+body{background-image:url(bg2.jpg)}
+.content{padding:5%;}
+.content p{font-size:18px;line-height:1.7;font-family:sans-serif;margin-bottom:25px;}
+.center h1{color: rgb(40, 90, 184);font-size: 70px;width: 900px;font-weight: bold;text-align: center;}
+.center h2{color: rgb(47, 144, 201);font-size: 70px;font-weight: bold;margin-top: 10px;width: 885px;text-align: center;transition: .4s;}
+.center h2:hover{background: lightblue;border-radius: 50px;}
+
+
+</style>
+
+</head>
+
